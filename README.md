@@ -1,6 +1,9 @@
 # FinalProject_Homey
 
-<img src="https://github.com/haazzero/FinalProject_Homey/blob/main/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%ED%95%A9%EC%B9%9C%20zip/3.png"  width="150" height="150"/>
+<img src=""  width="150" height="150"/>
+
+## 목차
+- [핵심 기능](#핵심)
 
 
 ## 🖥️ 프로젝트 소개
@@ -65,7 +68,9 @@ Spring Framework 의 MVC 패턴 기법을 적용하여 제작한 인테리어 �
   <img src="">
 </div>
 
-## 프로젝트 기능
+---
+
+## <div id="핵심"> 핵심 기능 </div>
 ### 😊 회원가입  / 카카오 로그인
 
 
