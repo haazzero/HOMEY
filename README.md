@@ -29,6 +29,8 @@ Spring Framework 의 MVC 패턴 기법을 적용하여 제작한 인테리어 �
 - **ORM** : Mybatis
 - **Application server** :  Apache Tomcat® v9.0
 - **형상관리** : Github
+
+## 기술스택
 <span>
 <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
@@ -42,7 +44,31 @@ Spring Framework 의 MVC 패턴 기법을 적용하여 제작한 인테리어 �
 <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/>
 </span>
 
-## 📕 DB구성- ERD
+## 🌐 Architecture
+<div>
+  <img src="">
+</div>
+
+## 노션
+
+>프로젝트 노션 :
+[프로젝트 노션 바로가기](https://shard-velvet-790.notion.site/daydei-258f1b00e93c4c719b92be10e78a3a51)
+
+
+>원페이지 노션 :
+[원페이지 노션 바로가기](https://shard-velvet-790.notion.site/A-4-SA-ae22a288543d455c810012fd6ac9b3a0)
+
+
+## 📋 ERD Diagram
+
+<div>
+  <img src="">
+</div>
+
+## 프로젝트 기능
+### 😊 회원가입  / 카카오 로그인
+
+
 
 ## 📕 폴더 구조
 ```
